@@ -22,6 +22,7 @@
 		9D4838651F3F7DB40057AF5C /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9D4838671F3F7DB40057AF5C /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9D48386E1F3F7DCE0057AF5C /* VisionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VisionViewController.swift; sourceTree = "<group>"; };
+		9D4E0E271F3F9ADB002DD5FA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -38,6 +39,7 @@
 		9D48384F1F3F7DB40057AF5C = {
 			isa = PBXGroup;
 			children = (
+				9D4E0E271F3F9ADB002DD5FA /* README.md */,
 				9D48385A1F3F7DB40057AF5C /* VisionSample */,
 				9D4838591F3F7DB40057AF5C /* Products */,
 			);
@@ -331,6 +333,7 @@
 				9D48386C1F3F7DB40057AF5C /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
